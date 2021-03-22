@@ -1,6 +1,7 @@
 # Face Recognition
 Face Recognition using DFSD and FaceNet.
-#####**Accuracy: > 90%**
+
+**Accuracy: > 90%**
 ## Dependencies
 
 - Jupyter
